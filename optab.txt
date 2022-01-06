@@ -1,0 +1,8 @@
+LDX     04
+LDA	00
+ADD     18
+TIX     2C
+JLT     38
+STA	0C
+MULF    60
+RSUB    4C
